@@ -1,0 +1,93 @@
+access
+delete
+file
+hang
+mouse
+mat
+address
+dial
+up
+MP3
+player
+at!@
+dial
+up
+hardware
+net
+blog
+digital
+headline
+online
+blogger
+digital
+camera
+homepage
+operator
+by post
+disc/disk
+install
+parcelcalculator
+dot
+internet
+password
+call(v)
+download(n&v)
+invent
+PC
+callback
+drag
+invention
+phone
+CD (player)
+DVD (player)
+IT
+photograph
+CD-Rom
+electronic(s)
+keyboard
+photography
+chat
+email
+laptop
+postcard
+chat
+room
+engaged
+(computer)
+print
+click(v)
+enter
+machine
+printer
+computer
+envelope
+message
+program(me)
+connect
+equipment
+mobile
+phone
+reply
+connection
+fax
+mouse
+ring
+ring up
+switch on
+turn off
+web
+screen
+talk
+turn on
+webcam
+server
+software
+telephone
+text
+upload
+video clip
+web page
+website
+switch off
+text message
+volume

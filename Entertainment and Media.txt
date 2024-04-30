@@ -1,0 +1,112 @@
+act (v)
+chat
+show
+action
+chess
+festival
+film
+laugh
+listen to
+actor
+cinema
+actress
+circus
+ad
+classical
+music
+admission
+comedy
+adventure
+comic
+film
+maker
+film
+star
+fireworks
+folk
+music
+fun
+look at
+magazine
+magic
+MP3
+player
+museum
+advert
+competition
+advertisement
+concert
+go out
+group
+music
+musician
+art
+dance
+article
+dancer
+guitar
+guitarist
+news
+newspaper
+audience
+disc
+ballet
+disco
+band
+display
+board
+game
+disc jockey
+book
+documentary
+camera
+drama
+headline
+hero
+heroine
+hip
+hop
+hit
+song
+horror
+opera
+orchestra
+paint
+painter
+perform
+performance
+card
+draw
+cartoon
+drawing
+celebrity DVD (player)
+CD (player)
+entrance
+CO-Rom
+exhibition
+channel
+exit
+instrument
+interval
+interview(er)
+jazz
+music
+journalist
+keyboard
+performer
+play
+poem
+pop
+music
+programme
+quiz
+recording
+row
+soap opera
+talk show
+review
+scene
+stage
+television
+rock music
+romantic

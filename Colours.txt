@@ -1,0 +1,15 @@
+(dark/light/pale)
+gold
+orange
+silver
+black
+golden
+pink
+yellow
+blue
+green
+purple
+white
+brown
+grey
+red
