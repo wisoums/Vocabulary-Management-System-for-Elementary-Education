@@ -4,4 +4,4 @@ The Vocabulary Management System is envisioned as a menu-driven application that
 
   - Data Structure: Implementation of custom doubly and singly linked lists to manage topics and their associated vocabulary words respectively.
   - Functionality: Features include browsing topics, inserting and deleting topics, modifying existing topics, searching for specific words, and saving or loading data from files.
-  - Interactivity: A user-friendly interface that allows students to easily navigate through vocabulary topics and manage words through a series of simple menu options.
+  - Interactivity: A user-friendly interface to easily navigate through vocabulary topics and manage words through a series of simple menu options.
